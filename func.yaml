@@ -9,7 +9,7 @@ build:
     - name: S2I_SOURCE_DEPLOYMENTS_FILTER
       value: lib quarkus-run.jar app quarkus
 created: 2025-07-24T12:23:20.6352058-06:00
-image: docker.io/dgvar/function1:latest
+image: docker.io/rashcarnales/function1:latest
 name: function1
 runtime: quarkus
 specVersion: 0.36.0
